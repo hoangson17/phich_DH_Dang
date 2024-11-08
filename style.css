@@ -44,7 +44,7 @@ a {
         max-width: 300px;
         margin-bottom: 10px!important;
         font-weight: bold;
-        font-size: 25px!important;
+        font-size: 30px!important;
 
     }
 
@@ -161,12 +161,9 @@ a {
         border-color: #D20004;
     }
     .section_four .img{
-        order: 2;
         margin-bottom: 20px;
     }
-    .section_four .img{
-        order: 1;
-    }
+
     
 }
 
@@ -324,7 +321,7 @@ form {
     width: 80%;
     background-color: #00C08A;
     border-radius: 20px;
-    height: 250px;
+    height: 300px;
 }
 
 form h3 {
@@ -349,8 +346,9 @@ form input::placeholder {
     padding: 5px 10px;
     border: 1px solid #ddd;
     border-radius: 7px;
-    background-color: #00C08A;
-    color: white;
+    background-color: #ffffff;
+    color: #0c8b67;
+    font-weight: bold;
     transition: all 0.3s ease;
 
 }
